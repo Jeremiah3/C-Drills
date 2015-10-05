@@ -1,0 +1,7 @@
+﻿20
+34
+82
+45
+23
+100
+Hello everyone this is a text file!
