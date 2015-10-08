@@ -20,9 +20,7 @@ namespace Calculator
 
 
             double result = 0;
-
-            //I chose to use a while loop so the program
-            //allows you to try again in case of a mistake
+            
 
             while (true)
             {
