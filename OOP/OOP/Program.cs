@@ -11,6 +11,8 @@ namespace OOP
         static void Main(string[] args)
         {
             //Practicing Object oriented programming with Linq.
+            //Sorry guys my naming skills is not so creative.
+
             List<Student> stud = new List<Student>()
         {
             new Student() { Id = 32465, FirstName = "Amy", LastName = "Loudermilk", Grade = 12, GradeAverage = 95 },

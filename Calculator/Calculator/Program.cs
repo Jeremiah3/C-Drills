@@ -88,6 +88,7 @@ namespace Calculator
         {
             return double1 * double2;
         }
+        //I used a little logic here to prevent a bug for when the user types 0.
         private static double Divide(double double1, double double2)
         {
             if (double1 == 0 || double2 == 0)
